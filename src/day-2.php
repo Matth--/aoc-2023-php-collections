@@ -3,7 +3,6 @@
 declare(strict_types=1);
 
 use loophp\collection\Collection;
-use function JetBrains\PhpStorm\ArrayShape;
 
 require_once dirname(__DIR__) . '/vendor/autoload.php';
 
